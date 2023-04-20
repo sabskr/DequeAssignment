@@ -98,8 +98,6 @@ public void initialization() {
 		public void close_Browser() {
 			driver.quit();
 			
-			
-			
 		}
 		
 		
